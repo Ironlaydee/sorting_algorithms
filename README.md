@@ -24,7 +24,7 @@ All your header files should be include guarded
 
 A list/array does not need to be sorted if its size is less than 2.
 
-# AIM sunflower
+# AIM 🌻 
 
 At least four different sorting algorithms
 
